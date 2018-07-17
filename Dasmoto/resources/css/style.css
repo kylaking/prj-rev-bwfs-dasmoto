@@ -1,0 +1,23 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-color: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+.productlines {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.green {
+  background-color: mediumspringgreen;
+}
+.coral {
+  background-color: lightcoral;
+}
+.blue {
+  background-color: skyblue;
+}
